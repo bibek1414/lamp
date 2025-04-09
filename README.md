@@ -105,6 +105,8 @@ code --install-extension xdebug.php-debug
 code --install-extension bmewburn.vscode-intelephense-client
 code --install-extension MehediDracula.php-namespace-resolver
 code --install-extension neilbrayfield.php-docblocker
+php -S localhost:8000
+
 ```
 
 ### Configure PHP in VS Code
